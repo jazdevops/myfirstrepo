@@ -2,7 +2,8 @@ HELLO WORLD!!!
 
 This is my first file on git.
 
-Time is 
+Time is 19.59
 
-https://www.google.com/search?client=ubuntu&channel=fs&q=how+to+display+time+on+nano+file+linux&ie=utf-8&oe=utf-8#kpvalbx=1
+
+
 
